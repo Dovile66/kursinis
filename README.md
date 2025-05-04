@@ -1,1 +1,1 @@
-# kursinis
+# Music streaming playlist system
