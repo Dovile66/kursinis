@@ -5,23 +5,9 @@ MUSIC PLAYLIST MANAGEMENT SYSTEM REPORT
 ---------------
 a. Application Overview:
    A Python-based music playlist system that manages both songs and podcast episodes.
-   Key features include playlist creation/modification, JSON import/export, and comprehensive unit testing.
+   Key features include playlist creation/modification, JSON import/export, and comprehensive unit testing. 
 
-b. How to Run:
-   # Clone repository and navigate to project
-   git clone https://github.com/your-repo.git
-   cd music-playlist-system
-   
-   # Install dependencies
-   pip install -r requirements.txt
-   
-   # Run main program
-   python main.py
-   
-   # Execute tests
-   python -m unittest discover
-
-c. How to Use:
+b. How to Use:
    1. Create playlists using PlaylistManager
    2. Add Songs or PodcastEpisode objects
    3. Display playlist contents
